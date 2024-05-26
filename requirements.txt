@@ -8,3 +8,4 @@ opencv-python==4.9.0.80
 numpy==1.18.5
 Werkzeug==1.0.1
 requests==2.31.0
+subprocess.run==0.0.8
